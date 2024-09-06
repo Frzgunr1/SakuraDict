@@ -1,7 +1,7 @@
 
 # SakuraDict
 
-这是一个主要用于sakura模型的字典库，适合翻译游戏中的文本内容。项目包含多个字典类别，以帮助更有效地翻译游戏对话、操作界面等特定内容。此外，还提供了字典格式转换工具，用于将不同格式的字典文件（如txt）转换为json格式，方便使用和管理。
+这是一个主要用于sakura模型的字典库，适合翻译游戏中的文本内容，旨在提高各大资源站的AI翻译质量。项目包含多个字典类别，以帮助更有效地翻译游戏对话、操作界面等特定内容。此外，还提供了字典格式转换工具，用于将不同格式的字典文件（如txt）转换为json格式，方便使用和管理。
 
 ## 项目特点
 - 包含多种类型的字典，支持多样化的翻译需求。
@@ -31,7 +31,7 @@
 
 1. 克隆项目仓库到本地：
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Frzgunr1/SakuraDict.git
    ```
 
 2. 运行格式转换工具：
@@ -70,5 +70,5 @@
 
 如果你有任何问题，或者想参与讨论，请加入我们的Telegram群组。
 
-[加入Telegram群组](https://t.me/+Glk2jc5_Zxs3YmE1)
+[加入Telegram群组](https://t.me/+G0kcBnxHj585MmRl)
 
