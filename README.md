@@ -70,5 +70,5 @@
 
 如果你有任何问题，或者想参与讨论，请加入我们的Telegram群组。
 
-[加入Telegram群组]([https://t.me/+Glk2jc5_Zxs3YmE1])
+[加入Telegram群组](https://t.me/+Glk2jc5_Zxs3YmE1)
 
